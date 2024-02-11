@@ -1,0 +1,10 @@
+C:\Users\daint\OneDrive - Metropolia Ammattikorkeakoulu Oy\Desktop\Telephone Diary Mini Project\Telephone Diary\Telephone Diary\bin\Debug\Telephone Diary.exe.config
+C:\Users\daint\OneDrive - Metropolia Ammattikorkeakoulu Oy\Desktop\Telephone Diary Mini Project\Telephone Diary\Telephone Diary\bin\Debug\Telephone Diary.exe
+C:\Users\daint\OneDrive - Metropolia Ammattikorkeakoulu Oy\Desktop\Telephone Diary Mini Project\Telephone Diary\Telephone Diary\bin\Debug\Telephone Diary.pdb
+C:\Users\daint\OneDrive - Metropolia Ammattikorkeakoulu Oy\Desktop\Telephone Diary Mini Project\Telephone Diary\Telephone Diary\obj\Debug\Telephone Diary.csproj.AssemblyReference.cache
+C:\Users\daint\OneDrive - Metropolia Ammattikorkeakoulu Oy\Desktop\Telephone Diary Mini Project\Telephone Diary\Telephone Diary\obj\Debug\Telephone_Diary.Form1.resources
+C:\Users\daint\OneDrive - Metropolia Ammattikorkeakoulu Oy\Desktop\Telephone Diary Mini Project\Telephone Diary\Telephone Diary\obj\Debug\Telephone_Diary.Properties.Resources.resources
+C:\Users\daint\OneDrive - Metropolia Ammattikorkeakoulu Oy\Desktop\Telephone Diary Mini Project\Telephone Diary\Telephone Diary\obj\Debug\Telephone Diary.csproj.GenerateResource.cache
+C:\Users\daint\OneDrive - Metropolia Ammattikorkeakoulu Oy\Desktop\Telephone Diary Mini Project\Telephone Diary\Telephone Diary\obj\Debug\Telephone Diary.csproj.CoreCompileInputs.cache
+C:\Users\daint\OneDrive - Metropolia Ammattikorkeakoulu Oy\Desktop\Telephone Diary Mini Project\Telephone Diary\Telephone Diary\obj\Debug\Telephone Diary.exe
+C:\Users\daint\OneDrive - Metropolia Ammattikorkeakoulu Oy\Desktop\Telephone Diary Mini Project\Telephone Diary\Telephone Diary\obj\Debug\Telephone Diary.pdb
